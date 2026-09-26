@@ -1,0 +1,10 @@
+backend/.env
+frontend/.env
+.env
+.env.local
+**/.env
+**/.env.local
+*service-account*.json
+node_modules
+frontend/node_modules
+backend/node_modules
